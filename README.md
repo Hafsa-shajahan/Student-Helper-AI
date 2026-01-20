@@ -61,4 +61,3 @@ student-helper-ai/
 ## Author
 
 Hafsa Shajahan
-UG/PG Student Project - 2025
